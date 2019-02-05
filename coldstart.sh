@@ -29,14 +29,14 @@ file ~/docker-build-beats/bin/heartbeat
 
 cd ~
 
-echo
-echo "Warning: Now you should do the following to pus the newly created executables:"
-echo
-echo "cd ~/docker-build-beats"
-echo "git status"
-echo "git add ."
-echo "git commit -m 'Added the freshly compiled beats'"
-echo "git push"
-echo
+#echo
+#echo "Warning: Now you should do the following to pus the newly created executables:"
+#echo
+#echo "cd ~/docker-build-beats"
+#echo "git status"
+#echo "git add ."
+#echo "git commit -m 'Added the freshly compiled beats'"
+#echo "git push"
+#echo
 
 echo "#### coldstart.sh has ended."
