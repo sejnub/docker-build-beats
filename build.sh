@@ -6,7 +6,10 @@ echo "#### build.sh has started."
 
 go get github.com/elastic/beats
 
-# INFO: Compare this with https://github.com/andig/beats4pi/blob/master/build.sh
+# INFO: Compare this with 
+# - https://github.com/andig/beats4pi/blob/master/build.sh
+# - https://gist.github.com/andig/650915e02b18cfe38de6516686977bca
+#   - This includes the generating of the templates
 
 echo
 echo "#######################"
