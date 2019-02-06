@@ -6,6 +6,8 @@ echo "#### build.sh has started."
 
 go get github.com/elastic/beats
 
+# INFO: Compare this with https://github.com/andig/beats4pi/blob/master/build.sh
+
 echo
 echo "#######################"
 echo "INFO: building filebeat"
